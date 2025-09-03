@@ -37,4 +37,4 @@ Copyright © 2023 ZenChat. All rights reserved.
 
 ---
 
-*P.S. This is a joke license for a fun project. Feel free to use the code! 😊*
+*P.S. This is a joke license for a fun project. DONT USE THE CODE 😊*
